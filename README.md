@@ -1,6 +1,6 @@
 # Exercicio POO - Banda Escolar
-
-Nome: [Jonatan Viana]
+FEITO EM DUPLA!!!!!
+Nome: [Jonatan Viana e Thiago Gotti]
 
 ## Estrutura
 
